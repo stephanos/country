@@ -16,8 +16,11 @@ This Go package provides meta data for all countries, like:
 
 ### ToDos
   - add BigMac-index
+  - add "is in EU"
+  - add currency symbol
+  - add address format
   - add country demonym
-  - add country name for each language
+  - add country name translations
 
 ### License
 MIT (see LICENSE).
