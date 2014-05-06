@@ -18,6 +18,7 @@ var _ = Describe("Countries", func() {
 		Check(DE.CurrencyName, Equals, "Euro")
 		Check(DE.ISO, Equals, "DE")
 		Check(DE.ISO3, Equals, "DEU")
+		Check(DE.ISONum, Equals, 276)
 		Check(DE.Name, Equals, "Germany")
 		Check(DE.TLD, Equals, ".de")
 	})

@@ -11,6 +11,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "AD",
 		ISO3:          "AND",
+		ISONum:        20,
 		Name:          "Andorra",
 		TLD:           ".ad",
 	}
@@ -24,6 +25,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "AE",
 		ISO3:          "ARE",
+		ISONum:        784,
 		Name:          "United Arab Emirates",
 		TLD:           ".ae",
 	}
@@ -37,6 +39,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "AF",
 		ISO3:          "AFG",
+		ISONum:        4,
 		Name:          "Afghanistan",
 		TLD:           ".af",
 	}
@@ -50,6 +53,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "AG",
 		ISO3:          "ATG",
+		ISONum:        28,
 		Name:          "Antigua and Barbuda",
 		TLD:           ".ag",
 	}
@@ -63,6 +67,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "AI",
 		ISO3:          "AIA",
+		ISONum:        660,
 		Name:          "Anguilla",
 		TLD:           ".ai",
 	}
@@ -76,6 +81,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "AL",
 		ISO3:          "ALB",
+		ISONum:        8,
 		Name:          "Albania",
 		TLD:           ".al",
 	}
@@ -89,6 +95,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "AM",
 		ISO3:          "ARM",
+		ISONum:        51,
 		Name:          "Armenia",
 		TLD:           ".am",
 	}
@@ -102,6 +109,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "AO",
 		ISO3:          "AGO",
+		ISONum:        24,
 		Name:          "Angola",
 		TLD:           ".ao",
 	}
@@ -115,6 +123,7 @@ var (
 		ContinentCode: "AN",
 		ISO:           "AQ",
 		ISO3:          "ATA",
+		ISONum:        10,
 		Name:          "Antarctica",
 		TLD:           ".aq",
 	}
@@ -128,6 +137,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "AR",
 		ISO3:          "ARG",
+		ISONum:        32,
 		Name:          "Argentina",
 		TLD:           ".ar",
 	}
@@ -141,6 +151,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "AS",
 		ISO3:          "ASM",
+		ISONum:        16,
 		Name:          "American Samoa",
 		TLD:           ".as",
 	}
@@ -154,6 +165,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "AT",
 		ISO3:          "AUT",
+		ISONum:        40,
 		Name:          "Austria",
 		TLD:           ".at",
 	}
@@ -167,6 +179,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "AU",
 		ISO3:          "AUS",
+		ISONum:        36,
 		Name:          "Australia",
 		TLD:           ".au",
 	}
@@ -180,6 +193,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "AW",
 		ISO3:          "ABW",
+		ISONum:        533,
 		Name:          "Aruba",
 		TLD:           ".aw",
 	}
@@ -193,6 +207,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "AX",
 		ISO3:          "ALA",
+		ISONum:        248,
 		Name:          "Aland Islands",
 		TLD:           ".ax",
 	}
@@ -206,6 +221,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "AZ",
 		ISO3:          "AZE",
+		ISONum:        31,
 		Name:          "Azerbaijan",
 		TLD:           ".az",
 	}
@@ -219,6 +235,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "BA",
 		ISO3:          "BIH",
+		ISONum:        70,
 		Name:          "Bosnia and Herzegovina",
 		TLD:           ".ba",
 	}
@@ -232,6 +249,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "BB",
 		ISO3:          "BRB",
+		ISONum:        52,
 		Name:          "Barbados",
 		TLD:           ".bb",
 	}
@@ -245,6 +263,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "BD",
 		ISO3:          "BGD",
+		ISONum:        50,
 		Name:          "Bangladesh",
 		TLD:           ".bd",
 	}
@@ -258,6 +277,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "BE",
 		ISO3:          "BEL",
+		ISONum:        56,
 		Name:          "Belgium",
 		TLD:           ".be",
 	}
@@ -271,6 +291,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "BF",
 		ISO3:          "BFA",
+		ISONum:        854,
 		Name:          "Burkina Faso",
 		TLD:           ".bf",
 	}
@@ -284,6 +305,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "BG",
 		ISO3:          "BGR",
+		ISONum:        100,
 		Name:          "Bulgaria",
 		TLD:           ".bg",
 	}
@@ -297,6 +319,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "BH",
 		ISO3:          "BHR",
+		ISONum:        48,
 		Name:          "Bahrain",
 		TLD:           ".bh",
 	}
@@ -310,6 +333,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "BI",
 		ISO3:          "BDI",
+		ISONum:        108,
 		Name:          "Burundi",
 		TLD:           ".bi",
 	}
@@ -323,6 +347,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "BJ",
 		ISO3:          "BEN",
+		ISONum:        204,
 		Name:          "Benin",
 		TLD:           ".bj",
 	}
@@ -336,6 +361,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "BL",
 		ISO3:          "BLM",
+		ISONum:        652,
 		Name:          "Saint Barthelemy",
 		TLD:           ".gp",
 	}
@@ -349,6 +375,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "BM",
 		ISO3:          "BMU",
+		ISONum:        60,
 		Name:          "Bermuda",
 		TLD:           ".bm",
 	}
@@ -362,6 +389,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "BN",
 		ISO3:          "BRN",
+		ISONum:        96,
 		Name:          "Brunei",
 		TLD:           ".bn",
 	}
@@ -375,6 +403,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "BO",
 		ISO3:          "BOL",
+		ISONum:        68,
 		Name:          "Bolivia",
 		TLD:           ".bo",
 	}
@@ -388,6 +417,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "BQ",
 		ISO3:          "BES",
+		ISONum:        535,
 		Name:          "Bonaire, Saint Eustatius and Saba ",
 		TLD:           ".bq",
 	}
@@ -401,6 +431,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "BR",
 		ISO3:          "BRA",
+		ISONum:        76,
 		Name:          "Brazil",
 		TLD:           ".br",
 	}
@@ -414,6 +445,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "BS",
 		ISO3:          "BHS",
+		ISONum:        44,
 		Name:          "Bahamas",
 		TLD:           ".bs",
 	}
@@ -427,6 +459,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "BT",
 		ISO3:          "BTN",
+		ISONum:        64,
 		Name:          "Bhutan",
 		TLD:           ".bt",
 	}
@@ -440,6 +473,7 @@ var (
 		ContinentCode: "AN",
 		ISO:           "BV",
 		ISO3:          "BVT",
+		ISONum:        74,
 		Name:          "Bouvet Island",
 		TLD:           ".bv",
 	}
@@ -453,6 +487,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "BW",
 		ISO3:          "BWA",
+		ISONum:        72,
 		Name:          "Botswana",
 		TLD:           ".bw",
 	}
@@ -466,6 +501,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "BY",
 		ISO3:          "BLR",
+		ISONum:        112,
 		Name:          "Belarus",
 		TLD:           ".by",
 	}
@@ -479,6 +515,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "BZ",
 		ISO3:          "BLZ",
+		ISONum:        84,
 		Name:          "Belize",
 		TLD:           ".bz",
 	}
@@ -492,6 +529,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "CA",
 		ISO3:          "CAN",
+		ISONum:        124,
 		Name:          "Canada",
 		TLD:           ".ca",
 	}
@@ -505,6 +543,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "CC",
 		ISO3:          "CCK",
+		ISONum:        166,
 		Name:          "Cocos Islands",
 		TLD:           ".cc",
 	}
@@ -518,6 +557,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "CD",
 		ISO3:          "COD",
+		ISONum:        180,
 		Name:          "Democratic Republic of the Congo",
 		TLD:           ".cd",
 	}
@@ -531,6 +571,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "CF",
 		ISO3:          "CAF",
+		ISONum:        140,
 		Name:          "Central African Republic",
 		TLD:           ".cf",
 	}
@@ -544,6 +585,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "CG",
 		ISO3:          "COG",
+		ISONum:        178,
 		Name:          "Republic of the Congo",
 		TLD:           ".cg",
 	}
@@ -557,6 +599,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "CH",
 		ISO3:          "CHE",
+		ISONum:        756,
 		Name:          "Switzerland",
 		TLD:           ".ch",
 	}
@@ -570,6 +613,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "CI",
 		ISO3:          "CIV",
+		ISONum:        384,
 		Name:          "Ivory Coast",
 		TLD:           ".ci",
 	}
@@ -583,6 +627,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "CK",
 		ISO3:          "COK",
+		ISONum:        184,
 		Name:          "Cook Islands",
 		TLD:           ".ck",
 	}
@@ -596,6 +641,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "CL",
 		ISO3:          "CHL",
+		ISONum:        152,
 		Name:          "Chile",
 		TLD:           ".cl",
 	}
@@ -609,6 +655,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "CM",
 		ISO3:          "CMR",
+		ISONum:        120,
 		Name:          "Cameroon",
 		TLD:           ".cm",
 	}
@@ -622,6 +669,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "CN",
 		ISO3:          "CHN",
+		ISONum:        156,
 		Name:          "China",
 		TLD:           ".cn",
 	}
@@ -635,6 +683,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "CO",
 		ISO3:          "COL",
+		ISONum:        170,
 		Name:          "Colombia",
 		TLD:           ".co",
 	}
@@ -648,6 +697,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "CR",
 		ISO3:          "CRI",
+		ISONum:        188,
 		Name:          "Costa Rica",
 		TLD:           ".cr",
 	}
@@ -661,6 +711,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "CU",
 		ISO3:          "CUB",
+		ISONum:        192,
 		Name:          "Cuba",
 		TLD:           ".cu",
 	}
@@ -674,6 +725,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "CV",
 		ISO3:          "CPV",
+		ISONum:        132,
 		Name:          "Cape Verde",
 		TLD:           ".cv",
 	}
@@ -687,6 +739,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "CW",
 		ISO3:          "CUW",
+		ISONum:        531,
 		Name:          "Curacao",
 		TLD:           ".cw",
 	}
@@ -700,6 +753,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "CX",
 		ISO3:          "CXR",
+		ISONum:        162,
 		Name:          "Christmas Island",
 		TLD:           ".cx",
 	}
@@ -713,6 +767,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "CY",
 		ISO3:          "CYP",
+		ISONum:        196,
 		Name:          "Cyprus",
 		TLD:           ".cy",
 	}
@@ -726,6 +781,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "CZ",
 		ISO3:          "CZE",
+		ISONum:        203,
 		Name:          "Czech Republic",
 		TLD:           ".cz",
 	}
@@ -739,6 +795,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "DE",
 		ISO3:          "DEU",
+		ISONum:        276,
 		Name:          "Germany",
 		TLD:           ".de",
 	}
@@ -752,6 +809,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "DJ",
 		ISO3:          "DJI",
+		ISONum:        262,
 		Name:          "Djibouti",
 		TLD:           ".dj",
 	}
@@ -765,6 +823,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "DK",
 		ISO3:          "DNK",
+		ISONum:        208,
 		Name:          "Denmark",
 		TLD:           ".dk",
 	}
@@ -778,6 +837,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "DM",
 		ISO3:          "DMA",
+		ISONum:        212,
 		Name:          "Dominica",
 		TLD:           ".dm",
 	}
@@ -791,6 +851,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "DO",
 		ISO3:          "DOM",
+		ISONum:        214,
 		Name:          "Dominican Republic",
 		TLD:           ".do",
 	}
@@ -804,6 +865,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "DZ",
 		ISO3:          "DZA",
+		ISONum:        12,
 		Name:          "Algeria",
 		TLD:           ".dz",
 	}
@@ -817,6 +879,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "EC",
 		ISO3:          "ECU",
+		ISONum:        218,
 		Name:          "Ecuador",
 		TLD:           ".ec",
 	}
@@ -830,6 +893,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "EE",
 		ISO3:          "EST",
+		ISONum:        233,
 		Name:          "Estonia",
 		TLD:           ".ee",
 	}
@@ -843,6 +907,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "EG",
 		ISO3:          "EGY",
+		ISONum:        818,
 		Name:          "Egypt",
 		TLD:           ".eg",
 	}
@@ -856,6 +921,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "EH",
 		ISO3:          "ESH",
+		ISONum:        732,
 		Name:          "Western Sahara",
 		TLD:           ".eh",
 	}
@@ -869,6 +935,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "ER",
 		ISO3:          "ERI",
+		ISONum:        232,
 		Name:          "Eritrea",
 		TLD:           ".er",
 	}
@@ -882,6 +949,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "ES",
 		ISO3:          "ESP",
+		ISONum:        724,
 		Name:          "Spain",
 		TLD:           ".es",
 	}
@@ -895,6 +963,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "ET",
 		ISO3:          "ETH",
+		ISONum:        231,
 		Name:          "Ethiopia",
 		TLD:           ".et",
 	}
@@ -908,6 +977,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "FI",
 		ISO3:          "FIN",
+		ISONum:        246,
 		Name:          "Finland",
 		TLD:           ".fi",
 	}
@@ -921,6 +991,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "FJ",
 		ISO3:          "FJI",
+		ISONum:        242,
 		Name:          "Fiji",
 		TLD:           ".fj",
 	}
@@ -934,6 +1005,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "FK",
 		ISO3:          "FLK",
+		ISONum:        238,
 		Name:          "Falkland Islands",
 		TLD:           ".fk",
 	}
@@ -947,6 +1019,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "FM",
 		ISO3:          "FSM",
+		ISONum:        583,
 		Name:          "Micronesia",
 		TLD:           ".fm",
 	}
@@ -960,6 +1033,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "FO",
 		ISO3:          "FRO",
+		ISONum:        234,
 		Name:          "Faroe Islands",
 		TLD:           ".fo",
 	}
@@ -973,6 +1047,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "FR",
 		ISO3:          "FRA",
+		ISONum:        250,
 		Name:          "France",
 		TLD:           ".fr",
 	}
@@ -986,6 +1061,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "GA",
 		ISO3:          "GAB",
+		ISONum:        266,
 		Name:          "Gabon",
 		TLD:           ".ga",
 	}
@@ -999,6 +1075,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "GB",
 		ISO3:          "GBR",
+		ISONum:        826,
 		Name:          "United Kingdom",
 		TLD:           ".uk",
 	}
@@ -1012,6 +1089,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "GD",
 		ISO3:          "GRD",
+		ISONum:        308,
 		Name:          "Grenada",
 		TLD:           ".gd",
 	}
@@ -1025,6 +1103,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "GE",
 		ISO3:          "GEO",
+		ISONum:        268,
 		Name:          "Georgia",
 		TLD:           ".ge",
 	}
@@ -1038,6 +1117,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "GF",
 		ISO3:          "GUF",
+		ISONum:        254,
 		Name:          "French Guiana",
 		TLD:           ".gf",
 	}
@@ -1051,6 +1131,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "GG",
 		ISO3:          "GGY",
+		ISONum:        831,
 		Name:          "Guernsey",
 		TLD:           ".gg",
 	}
@@ -1064,6 +1145,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "GH",
 		ISO3:          "GHA",
+		ISONum:        288,
 		Name:          "Ghana",
 		TLD:           ".gh",
 	}
@@ -1077,6 +1159,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "GI",
 		ISO3:          "GIB",
+		ISONum:        292,
 		Name:          "Gibraltar",
 		TLD:           ".gi",
 	}
@@ -1090,6 +1173,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "GL",
 		ISO3:          "GRL",
+		ISONum:        304,
 		Name:          "Greenland",
 		TLD:           ".gl",
 	}
@@ -1103,6 +1187,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "GM",
 		ISO3:          "GMB",
+		ISONum:        270,
 		Name:          "Gambia",
 		TLD:           ".gm",
 	}
@@ -1116,6 +1201,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "GN",
 		ISO3:          "GIN",
+		ISONum:        324,
 		Name:          "Guinea",
 		TLD:           ".gn",
 	}
@@ -1129,6 +1215,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "GP",
 		ISO3:          "GLP",
+		ISONum:        312,
 		Name:          "Guadeloupe",
 		TLD:           ".gp",
 	}
@@ -1142,6 +1229,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "GQ",
 		ISO3:          "GNQ",
+		ISONum:        226,
 		Name:          "Equatorial Guinea",
 		TLD:           ".gq",
 	}
@@ -1155,6 +1243,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "GR",
 		ISO3:          "GRC",
+		ISONum:        300,
 		Name:          "Greece",
 		TLD:           ".gr",
 	}
@@ -1168,6 +1257,7 @@ var (
 		ContinentCode: "AN",
 		ISO:           "GS",
 		ISO3:          "SGS",
+		ISONum:        239,
 		Name:          "South Georgia and the South Sandwich Islands",
 		TLD:           ".gs",
 	}
@@ -1181,6 +1271,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "GT",
 		ISO3:          "GTM",
+		ISONum:        320,
 		Name:          "Guatemala",
 		TLD:           ".gt",
 	}
@@ -1194,6 +1285,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "GU",
 		ISO3:          "GUM",
+		ISONum:        316,
 		Name:          "Guam",
 		TLD:           ".gu",
 	}
@@ -1207,6 +1299,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "GW",
 		ISO3:          "GNB",
+		ISONum:        624,
 		Name:          "Guinea-Bissau",
 		TLD:           ".gw",
 	}
@@ -1220,6 +1313,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "GY",
 		ISO3:          "GUY",
+		ISONum:        328,
 		Name:          "Guyana",
 		TLD:           ".gy",
 	}
@@ -1233,6 +1327,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "HK",
 		ISO3:          "HKG",
+		ISONum:        344,
 		Name:          "Hong Kong",
 		TLD:           ".hk",
 	}
@@ -1246,6 +1341,7 @@ var (
 		ContinentCode: "AN",
 		ISO:           "HM",
 		ISO3:          "HMD",
+		ISONum:        334,
 		Name:          "Heard Island and McDonald Islands",
 		TLD:           ".hm",
 	}
@@ -1259,6 +1355,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "HN",
 		ISO3:          "HND",
+		ISONum:        340,
 		Name:          "Honduras",
 		TLD:           ".hn",
 	}
@@ -1272,6 +1369,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "HR",
 		ISO3:          "HRV",
+		ISONum:        191,
 		Name:          "Croatia",
 		TLD:           ".hr",
 	}
@@ -1285,6 +1383,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "HT",
 		ISO3:          "HTI",
+		ISONum:        332,
 		Name:          "Haiti",
 		TLD:           ".ht",
 	}
@@ -1298,6 +1397,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "HU",
 		ISO3:          "HUN",
+		ISONum:        348,
 		Name:          "Hungary",
 		TLD:           ".hu",
 	}
@@ -1311,6 +1411,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "ID",
 		ISO3:          "IDN",
+		ISONum:        360,
 		Name:          "Indonesia",
 		TLD:           ".id",
 	}
@@ -1324,6 +1425,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "IE",
 		ISO3:          "IRL",
+		ISONum:        372,
 		Name:          "Ireland",
 		TLD:           ".ie",
 	}
@@ -1337,6 +1439,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "IL",
 		ISO3:          "ISR",
+		ISONum:        376,
 		Name:          "Israel",
 		TLD:           ".il",
 	}
@@ -1350,6 +1453,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "IM",
 		ISO3:          "IMN",
+		ISONum:        833,
 		Name:          "Isle of Man",
 		TLD:           ".im",
 	}
@@ -1363,6 +1467,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "IN",
 		ISO3:          "IND",
+		ISONum:        356,
 		Name:          "India",
 		TLD:           ".in",
 	}
@@ -1376,6 +1481,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "IO",
 		ISO3:          "IOT",
+		ISONum:        86,
 		Name:          "British Indian Ocean Territory",
 		TLD:           ".io",
 	}
@@ -1389,6 +1495,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "IQ",
 		ISO3:          "IRQ",
+		ISONum:        368,
 		Name:          "Iraq",
 		TLD:           ".iq",
 	}
@@ -1402,6 +1509,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "IR",
 		ISO3:          "IRN",
+		ISONum:        364,
 		Name:          "Iran",
 		TLD:           ".ir",
 	}
@@ -1415,6 +1523,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "IS",
 		ISO3:          "ISL",
+		ISONum:        352,
 		Name:          "Iceland",
 		TLD:           ".is",
 	}
@@ -1428,6 +1537,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "IT",
 		ISO3:          "ITA",
+		ISONum:        380,
 		Name:          "Italy",
 		TLD:           ".it",
 	}
@@ -1441,6 +1551,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "JE",
 		ISO3:          "JEY",
+		ISONum:        832,
 		Name:          "Jersey",
 		TLD:           ".je",
 	}
@@ -1454,6 +1565,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "JM",
 		ISO3:          "JAM",
+		ISONum:        388,
 		Name:          "Jamaica",
 		TLD:           ".jm",
 	}
@@ -1467,6 +1579,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "JO",
 		ISO3:          "JOR",
+		ISONum:        400,
 		Name:          "Jordan",
 		TLD:           ".jo",
 	}
@@ -1480,6 +1593,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "JP",
 		ISO3:          "JPN",
+		ISONum:        392,
 		Name:          "Japan",
 		TLD:           ".jp",
 	}
@@ -1493,6 +1607,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "KE",
 		ISO3:          "KEN",
+		ISONum:        404,
 		Name:          "Kenya",
 		TLD:           ".ke",
 	}
@@ -1506,6 +1621,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "KG",
 		ISO3:          "KGZ",
+		ISONum:        417,
 		Name:          "Kyrgyzstan",
 		TLD:           ".kg",
 	}
@@ -1519,6 +1635,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "KH",
 		ISO3:          "KHM",
+		ISONum:        116,
 		Name:          "Cambodia",
 		TLD:           ".kh",
 	}
@@ -1532,6 +1649,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "KI",
 		ISO3:          "KIR",
+		ISONum:        296,
 		Name:          "Kiribati",
 		TLD:           ".ki",
 	}
@@ -1545,6 +1663,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "KM",
 		ISO3:          "COM",
+		ISONum:        174,
 		Name:          "Comoros",
 		TLD:           ".km",
 	}
@@ -1558,6 +1677,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "KN",
 		ISO3:          "KNA",
+		ISONum:        659,
 		Name:          "Saint Kitts and Nevis",
 		TLD:           ".kn",
 	}
@@ -1571,6 +1691,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "KP",
 		ISO3:          "PRK",
+		ISONum:        408,
 		Name:          "North Korea",
 		TLD:           ".kp",
 	}
@@ -1584,6 +1705,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "KR",
 		ISO3:          "KOR",
+		ISONum:        410,
 		Name:          "South Korea",
 		TLD:           ".kr",
 	}
@@ -1597,6 +1719,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "XK",
 		ISO3:          "XKX",
+		ISONum:        0,
 		Name:          "Kosovo",
 		TLD:           "",
 	}
@@ -1610,6 +1733,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "KW",
 		ISO3:          "KWT",
+		ISONum:        414,
 		Name:          "Kuwait",
 		TLD:           ".kw",
 	}
@@ -1623,6 +1747,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "KY",
 		ISO3:          "CYM",
+		ISONum:        136,
 		Name:          "Cayman Islands",
 		TLD:           ".ky",
 	}
@@ -1636,6 +1761,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "KZ",
 		ISO3:          "KAZ",
+		ISONum:        398,
 		Name:          "Kazakhstan",
 		TLD:           ".kz",
 	}
@@ -1649,6 +1775,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "LA",
 		ISO3:          "LAO",
+		ISONum:        418,
 		Name:          "Laos",
 		TLD:           ".la",
 	}
@@ -1662,6 +1789,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "LB",
 		ISO3:          "LBN",
+		ISONum:        422,
 		Name:          "Lebanon",
 		TLD:           ".lb",
 	}
@@ -1675,6 +1803,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "LC",
 		ISO3:          "LCA",
+		ISONum:        662,
 		Name:          "Saint Lucia",
 		TLD:           ".lc",
 	}
@@ -1688,6 +1817,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "LI",
 		ISO3:          "LIE",
+		ISONum:        438,
 		Name:          "Liechtenstein",
 		TLD:           ".li",
 	}
@@ -1701,6 +1831,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "LK",
 		ISO3:          "LKA",
+		ISONum:        144,
 		Name:          "Sri Lanka",
 		TLD:           ".lk",
 	}
@@ -1714,6 +1845,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "LR",
 		ISO3:          "LBR",
+		ISONum:        430,
 		Name:          "Liberia",
 		TLD:           ".lr",
 	}
@@ -1727,6 +1859,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "LS",
 		ISO3:          "LSO",
+		ISONum:        426,
 		Name:          "Lesotho",
 		TLD:           ".ls",
 	}
@@ -1740,6 +1873,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "LT",
 		ISO3:          "LTU",
+		ISONum:        440,
 		Name:          "Lithuania",
 		TLD:           ".lt",
 	}
@@ -1753,6 +1887,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "LU",
 		ISO3:          "LUX",
+		ISONum:        442,
 		Name:          "Luxembourg",
 		TLD:           ".lu",
 	}
@@ -1766,6 +1901,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "LV",
 		ISO3:          "LVA",
+		ISONum:        428,
 		Name:          "Latvia",
 		TLD:           ".lv",
 	}
@@ -1779,6 +1915,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "LY",
 		ISO3:          "LBY",
+		ISONum:        434,
 		Name:          "Libya",
 		TLD:           ".ly",
 	}
@@ -1792,6 +1929,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "MA",
 		ISO3:          "MAR",
+		ISONum:        504,
 		Name:          "Morocco",
 		TLD:           ".ma",
 	}
@@ -1805,6 +1943,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "MC",
 		ISO3:          "MCO",
+		ISONum:        492,
 		Name:          "Monaco",
 		TLD:           ".mc",
 	}
@@ -1818,6 +1957,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "MD",
 		ISO3:          "MDA",
+		ISONum:        498,
 		Name:          "Moldova",
 		TLD:           ".md",
 	}
@@ -1831,6 +1971,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "ME",
 		ISO3:          "MNE",
+		ISONum:        499,
 		Name:          "Montenegro",
 		TLD:           ".me",
 	}
@@ -1844,6 +1985,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "MF",
 		ISO3:          "MAF",
+		ISONum:        663,
 		Name:          "Saint Martin",
 		TLD:           ".gp",
 	}
@@ -1857,6 +1999,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "MG",
 		ISO3:          "MDG",
+		ISONum:        450,
 		Name:          "Madagascar",
 		TLD:           ".mg",
 	}
@@ -1870,6 +2013,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "MH",
 		ISO3:          "MHL",
+		ISONum:        584,
 		Name:          "Marshall Islands",
 		TLD:           ".mh",
 	}
@@ -1883,6 +2027,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "MK",
 		ISO3:          "MKD",
+		ISONum:        807,
 		Name:          "Macedonia",
 		TLD:           ".mk",
 	}
@@ -1896,6 +2041,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "ML",
 		ISO3:          "MLI",
+		ISONum:        466,
 		Name:          "Mali",
 		TLD:           ".ml",
 	}
@@ -1909,6 +2055,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "MM",
 		ISO3:          "MMR",
+		ISONum:        104,
 		Name:          "Myanmar",
 		TLD:           ".mm",
 	}
@@ -1922,6 +2069,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "MN",
 		ISO3:          "MNG",
+		ISONum:        496,
 		Name:          "Mongolia",
 		TLD:           ".mn",
 	}
@@ -1935,6 +2083,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "MO",
 		ISO3:          "MAC",
+		ISONum:        446,
 		Name:          "Macao",
 		TLD:           ".mo",
 	}
@@ -1948,6 +2097,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "MP",
 		ISO3:          "MNP",
+		ISONum:        580,
 		Name:          "Northern Mariana Islands",
 		TLD:           ".mp",
 	}
@@ -1961,6 +2111,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "MQ",
 		ISO3:          "MTQ",
+		ISONum:        474,
 		Name:          "Martinique",
 		TLD:           ".mq",
 	}
@@ -1974,6 +2125,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "MR",
 		ISO3:          "MRT",
+		ISONum:        478,
 		Name:          "Mauritania",
 		TLD:           ".mr",
 	}
@@ -1987,6 +2139,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "MS",
 		ISO3:          "MSR",
+		ISONum:        500,
 		Name:          "Montserrat",
 		TLD:           ".ms",
 	}
@@ -2000,6 +2153,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "MT",
 		ISO3:          "MLT",
+		ISONum:        470,
 		Name:          "Malta",
 		TLD:           ".mt",
 	}
@@ -2013,6 +2167,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "MU",
 		ISO3:          "MUS",
+		ISONum:        480,
 		Name:          "Mauritius",
 		TLD:           ".mu",
 	}
@@ -2026,6 +2181,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "MV",
 		ISO3:          "MDV",
+		ISONum:        462,
 		Name:          "Maldives",
 		TLD:           ".mv",
 	}
@@ -2039,6 +2195,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "MW",
 		ISO3:          "MWI",
+		ISONum:        454,
 		Name:          "Malawi",
 		TLD:           ".mw",
 	}
@@ -2052,6 +2209,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "MX",
 		ISO3:          "MEX",
+		ISONum:        484,
 		Name:          "Mexico",
 		TLD:           ".mx",
 	}
@@ -2065,6 +2223,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "MY",
 		ISO3:          "MYS",
+		ISONum:        458,
 		Name:          "Malaysia",
 		TLD:           ".my",
 	}
@@ -2078,6 +2237,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "MZ",
 		ISO3:          "MOZ",
+		ISONum:        508,
 		Name:          "Mozambique",
 		TLD:           ".mz",
 	}
@@ -2091,6 +2251,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "NA",
 		ISO3:          "NAM",
+		ISONum:        516,
 		Name:          "Namibia",
 		TLD:           ".na",
 	}
@@ -2104,6 +2265,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "NC",
 		ISO3:          "NCL",
+		ISONum:        540,
 		Name:          "New Caledonia",
 		TLD:           ".nc",
 	}
@@ -2117,6 +2279,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "NE",
 		ISO3:          "NER",
+		ISONum:        562,
 		Name:          "Niger",
 		TLD:           ".ne",
 	}
@@ -2130,6 +2293,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "NF",
 		ISO3:          "NFK",
+		ISONum:        574,
 		Name:          "Norfolk Island",
 		TLD:           ".nf",
 	}
@@ -2143,6 +2307,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "NG",
 		ISO3:          "NGA",
+		ISONum:        566,
 		Name:          "Nigeria",
 		TLD:           ".ng",
 	}
@@ -2156,6 +2321,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "NI",
 		ISO3:          "NIC",
+		ISONum:        558,
 		Name:          "Nicaragua",
 		TLD:           ".ni",
 	}
@@ -2169,6 +2335,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "NL",
 		ISO3:          "NLD",
+		ISONum:        528,
 		Name:          "Netherlands",
 		TLD:           ".nl",
 	}
@@ -2182,6 +2349,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "NO",
 		ISO3:          "NOR",
+		ISONum:        578,
 		Name:          "Norway",
 		TLD:           ".no",
 	}
@@ -2195,6 +2363,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "NP",
 		ISO3:          "NPL",
+		ISONum:        524,
 		Name:          "Nepal",
 		TLD:           ".np",
 	}
@@ -2208,6 +2377,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "NR",
 		ISO3:          "NRU",
+		ISONum:        520,
 		Name:          "Nauru",
 		TLD:           ".nr",
 	}
@@ -2221,6 +2391,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "NU",
 		ISO3:          "NIU",
+		ISONum:        570,
 		Name:          "Niue",
 		TLD:           ".nu",
 	}
@@ -2234,6 +2405,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "NZ",
 		ISO3:          "NZL",
+		ISONum:        554,
 		Name:          "New Zealand",
 		TLD:           ".nz",
 	}
@@ -2247,6 +2419,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "OM",
 		ISO3:          "OMN",
+		ISONum:        512,
 		Name:          "Oman",
 		TLD:           ".om",
 	}
@@ -2260,6 +2433,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "PA",
 		ISO3:          "PAN",
+		ISONum:        591,
 		Name:          "Panama",
 		TLD:           ".pa",
 	}
@@ -2273,6 +2447,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "PE",
 		ISO3:          "PER",
+		ISONum:        604,
 		Name:          "Peru",
 		TLD:           ".pe",
 	}
@@ -2286,6 +2461,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "PF",
 		ISO3:          "PYF",
+		ISONum:        258,
 		Name:          "French Polynesia",
 		TLD:           ".pf",
 	}
@@ -2299,6 +2475,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "PG",
 		ISO3:          "PNG",
+		ISONum:        598,
 		Name:          "Papua New Guinea",
 		TLD:           ".pg",
 	}
@@ -2312,6 +2489,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "PH",
 		ISO3:          "PHL",
+		ISONum:        608,
 		Name:          "Philippines",
 		TLD:           ".ph",
 	}
@@ -2325,6 +2503,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "PK",
 		ISO3:          "PAK",
+		ISONum:        586,
 		Name:          "Pakistan",
 		TLD:           ".pk",
 	}
@@ -2338,6 +2517,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "PL",
 		ISO3:          "POL",
+		ISONum:        616,
 		Name:          "Poland",
 		TLD:           ".pl",
 	}
@@ -2351,6 +2531,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "PM",
 		ISO3:          "SPM",
+		ISONum:        666,
 		Name:          "Saint Pierre and Miquelon",
 		TLD:           ".pm",
 	}
@@ -2364,6 +2545,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "PN",
 		ISO3:          "PCN",
+		ISONum:        612,
 		Name:          "Pitcairn",
 		TLD:           ".pn",
 	}
@@ -2377,6 +2559,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "PR",
 		ISO3:          "PRI",
+		ISONum:        630,
 		Name:          "Puerto Rico",
 		TLD:           ".pr",
 	}
@@ -2390,6 +2573,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "PS",
 		ISO3:          "PSE",
+		ISONum:        275,
 		Name:          "Palestinian Territory",
 		TLD:           ".ps",
 	}
@@ -2403,6 +2587,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "PT",
 		ISO3:          "PRT",
+		ISONum:        620,
 		Name:          "Portugal",
 		TLD:           ".pt",
 	}
@@ -2416,6 +2601,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "PW",
 		ISO3:          "PLW",
+		ISONum:        585,
 		Name:          "Palau",
 		TLD:           ".pw",
 	}
@@ -2429,6 +2615,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "PY",
 		ISO3:          "PRY",
+		ISONum:        600,
 		Name:          "Paraguay",
 		TLD:           ".py",
 	}
@@ -2442,6 +2629,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "QA",
 		ISO3:          "QAT",
+		ISONum:        634,
 		Name:          "Qatar",
 		TLD:           ".qa",
 	}
@@ -2455,6 +2643,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "RE",
 		ISO3:          "REU",
+		ISONum:        638,
 		Name:          "Reunion",
 		TLD:           ".re",
 	}
@@ -2468,6 +2657,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "RO",
 		ISO3:          "ROU",
+		ISONum:        642,
 		Name:          "Romania",
 		TLD:           ".ro",
 	}
@@ -2481,6 +2671,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "RS",
 		ISO3:          "SRB",
+		ISONum:        688,
 		Name:          "Serbia",
 		TLD:           ".rs",
 	}
@@ -2494,6 +2685,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "RU",
 		ISO3:          "RUS",
+		ISONum:        643,
 		Name:          "Russia",
 		TLD:           ".ru",
 	}
@@ -2507,6 +2699,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "RW",
 		ISO3:          "RWA",
+		ISONum:        646,
 		Name:          "Rwanda",
 		TLD:           ".rw",
 	}
@@ -2520,6 +2713,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "SA",
 		ISO3:          "SAU",
+		ISONum:        682,
 		Name:          "Saudi Arabia",
 		TLD:           ".sa",
 	}
@@ -2533,6 +2727,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "SB",
 		ISO3:          "SLB",
+		ISONum:        90,
 		Name:          "Solomon Islands",
 		TLD:           ".sb",
 	}
@@ -2546,6 +2741,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "SC",
 		ISO3:          "SYC",
+		ISONum:        690,
 		Name:          "Seychelles",
 		TLD:           ".sc",
 	}
@@ -2559,6 +2755,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "SD",
 		ISO3:          "SDN",
+		ISONum:        729,
 		Name:          "Sudan",
 		TLD:           ".sd",
 	}
@@ -2572,6 +2769,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "SS",
 		ISO3:          "SSD",
+		ISONum:        728,
 		Name:          "South Sudan",
 		TLD:           "",
 	}
@@ -2585,6 +2783,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "SE",
 		ISO3:          "SWE",
+		ISONum:        752,
 		Name:          "Sweden",
 		TLD:           ".se",
 	}
@@ -2598,6 +2797,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "SG",
 		ISO3:          "SGP",
+		ISONum:        702,
 		Name:          "Singapore",
 		TLD:           ".sg",
 	}
@@ -2611,6 +2811,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "SH",
 		ISO3:          "SHN",
+		ISONum:        654,
 		Name:          "Saint Helena",
 		TLD:           ".sh",
 	}
@@ -2624,6 +2825,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "SI",
 		ISO3:          "SVN",
+		ISONum:        705,
 		Name:          "Slovenia",
 		TLD:           ".si",
 	}
@@ -2637,6 +2839,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "SJ",
 		ISO3:          "SJM",
+		ISONum:        744,
 		Name:          "Svalbard and Jan Mayen",
 		TLD:           ".sj",
 	}
@@ -2650,6 +2853,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "SK",
 		ISO3:          "SVK",
+		ISONum:        703,
 		Name:          "Slovakia",
 		TLD:           ".sk",
 	}
@@ -2663,6 +2867,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "SL",
 		ISO3:          "SLE",
+		ISONum:        694,
 		Name:          "Sierra Leone",
 		TLD:           ".sl",
 	}
@@ -2676,6 +2881,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "SM",
 		ISO3:          "SMR",
+		ISONum:        674,
 		Name:          "San Marino",
 		TLD:           ".sm",
 	}
@@ -2689,6 +2895,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "SN",
 		ISO3:          "SEN",
+		ISONum:        686,
 		Name:          "Senegal",
 		TLD:           ".sn",
 	}
@@ -2702,6 +2909,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "SO",
 		ISO3:          "SOM",
+		ISONum:        706,
 		Name:          "Somalia",
 		TLD:           ".so",
 	}
@@ -2715,6 +2923,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "SR",
 		ISO3:          "SUR",
+		ISONum:        740,
 		Name:          "Suriname",
 		TLD:           ".sr",
 	}
@@ -2728,6 +2937,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "ST",
 		ISO3:          "STP",
+		ISONum:        678,
 		Name:          "Sao Tome and Principe",
 		TLD:           ".st",
 	}
@@ -2741,6 +2951,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "SV",
 		ISO3:          "SLV",
+		ISONum:        222,
 		Name:          "El Salvador",
 		TLD:           ".sv",
 	}
@@ -2754,6 +2965,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "SX",
 		ISO3:          "SXM",
+		ISONum:        534,
 		Name:          "Sint Maarten",
 		TLD:           ".sx",
 	}
@@ -2767,6 +2979,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "SY",
 		ISO3:          "SYR",
+		ISONum:        760,
 		Name:          "Syria",
 		TLD:           ".sy",
 	}
@@ -2780,6 +2993,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "SZ",
 		ISO3:          "SWZ",
+		ISONum:        748,
 		Name:          "Swaziland",
 		TLD:           ".sz",
 	}
@@ -2793,6 +3007,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "TC",
 		ISO3:          "TCA",
+		ISONum:        796,
 		Name:          "Turks and Caicos Islands",
 		TLD:           ".tc",
 	}
@@ -2806,6 +3021,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "TD",
 		ISO3:          "TCD",
+		ISONum:        148,
 		Name:          "Chad",
 		TLD:           ".td",
 	}
@@ -2819,6 +3035,7 @@ var (
 		ContinentCode: "AN",
 		ISO:           "TF",
 		ISO3:          "ATF",
+		ISONum:        260,
 		Name:          "French Southern Territories",
 		TLD:           ".tf",
 	}
@@ -2832,6 +3049,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "TG",
 		ISO3:          "TGO",
+		ISONum:        768,
 		Name:          "Togo",
 		TLD:           ".tg",
 	}
@@ -2845,6 +3063,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "TH",
 		ISO3:          "THA",
+		ISONum:        764,
 		Name:          "Thailand",
 		TLD:           ".th",
 	}
@@ -2858,6 +3077,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "TJ",
 		ISO3:          "TJK",
+		ISONum:        762,
 		Name:          "Tajikistan",
 		TLD:           ".tj",
 	}
@@ -2871,6 +3091,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "TK",
 		ISO3:          "TKL",
+		ISONum:        772,
 		Name:          "Tokelau",
 		TLD:           ".tk",
 	}
@@ -2884,6 +3105,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "TL",
 		ISO3:          "TLS",
+		ISONum:        626,
 		Name:          "East Timor",
 		TLD:           ".tl",
 	}
@@ -2897,6 +3119,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "TM",
 		ISO3:          "TKM",
+		ISONum:        795,
 		Name:          "Turkmenistan",
 		TLD:           ".tm",
 	}
@@ -2910,6 +3133,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "TN",
 		ISO3:          "TUN",
+		ISONum:        788,
 		Name:          "Tunisia",
 		TLD:           ".tn",
 	}
@@ -2923,6 +3147,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "TO",
 		ISO3:          "TON",
+		ISONum:        776,
 		Name:          "Tonga",
 		TLD:           ".to",
 	}
@@ -2936,6 +3161,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "TR",
 		ISO3:          "TUR",
+		ISONum:        792,
 		Name:          "Turkey",
 		TLD:           ".tr",
 	}
@@ -2949,6 +3175,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "TT",
 		ISO3:          "TTO",
+		ISONum:        780,
 		Name:          "Trinidad and Tobago",
 		TLD:           ".tt",
 	}
@@ -2962,6 +3189,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "TV",
 		ISO3:          "TUV",
+		ISONum:        798,
 		Name:          "Tuvalu",
 		TLD:           ".tv",
 	}
@@ -2975,6 +3203,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "TW",
 		ISO3:          "TWN",
+		ISONum:        158,
 		Name:          "Taiwan",
 		TLD:           ".tw",
 	}
@@ -2988,6 +3217,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "TZ",
 		ISO3:          "TZA",
+		ISONum:        834,
 		Name:          "Tanzania",
 		TLD:           ".tz",
 	}
@@ -3001,6 +3231,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "UA",
 		ISO3:          "UKR",
+		ISONum:        804,
 		Name:          "Ukraine",
 		TLD:           ".ua",
 	}
@@ -3014,6 +3245,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "UG",
 		ISO3:          "UGA",
+		ISONum:        800,
 		Name:          "Uganda",
 		TLD:           ".ug",
 	}
@@ -3027,6 +3259,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "UM",
 		ISO3:          "UMI",
+		ISONum:        581,
 		Name:          "United States Minor Outlying Islands",
 		TLD:           ".um",
 	}
@@ -3040,6 +3273,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "US",
 		ISO3:          "USA",
+		ISONum:        840,
 		Name:          "United States",
 		TLD:           ".us",
 	}
@@ -3053,6 +3287,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "UY",
 		ISO3:          "URY",
+		ISONum:        858,
 		Name:          "Uruguay",
 		TLD:           ".uy",
 	}
@@ -3066,6 +3301,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "UZ",
 		ISO3:          "UZB",
+		ISONum:        860,
 		Name:          "Uzbekistan",
 		TLD:           ".uz",
 	}
@@ -3079,6 +3315,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "VA",
 		ISO3:          "VAT",
+		ISONum:        336,
 		Name:          "Vatican",
 		TLD:           ".va",
 	}
@@ -3092,6 +3329,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "VC",
 		ISO3:          "VCT",
+		ISONum:        670,
 		Name:          "Saint Vincent and the Grenadines",
 		TLD:           ".vc",
 	}
@@ -3105,6 +3343,7 @@ var (
 		ContinentCode: "SA",
 		ISO:           "VE",
 		ISO3:          "VEN",
+		ISONum:        862,
 		Name:          "Venezuela",
 		TLD:           ".ve",
 	}
@@ -3118,6 +3357,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "VG",
 		ISO3:          "VGB",
+		ISONum:        92,
 		Name:          "British Virgin Islands",
 		TLD:           ".vg",
 	}
@@ -3131,6 +3371,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "VI",
 		ISO3:          "VIR",
+		ISONum:        850,
 		Name:          "U.S. Virgin Islands",
 		TLD:           ".vi",
 	}
@@ -3144,6 +3385,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "VN",
 		ISO3:          "VNM",
+		ISONum:        704,
 		Name:          "Vietnam",
 		TLD:           ".vn",
 	}
@@ -3157,6 +3399,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "VU",
 		ISO3:          "VUT",
+		ISONum:        548,
 		Name:          "Vanuatu",
 		TLD:           ".vu",
 	}
@@ -3170,6 +3413,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "WF",
 		ISO3:          "WLF",
+		ISONum:        876,
 		Name:          "Wallis and Futuna",
 		TLD:           ".wf",
 	}
@@ -3183,6 +3427,7 @@ var (
 		ContinentCode: "OC",
 		ISO:           "WS",
 		ISO3:          "WSM",
+		ISONum:        882,
 		Name:          "Samoa",
 		TLD:           ".ws",
 	}
@@ -3196,6 +3441,7 @@ var (
 		ContinentCode: "AS",
 		ISO:           "YE",
 		ISO3:          "YEM",
+		ISONum:        887,
 		Name:          "Yemen",
 		TLD:           ".ye",
 	}
@@ -3209,6 +3455,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "YT",
 		ISO3:          "MYT",
+		ISONum:        175,
 		Name:          "Mayotte",
 		TLD:           ".yt",
 	}
@@ -3222,6 +3469,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "ZA",
 		ISO3:          "ZAF",
+		ISONum:        710,
 		Name:          "South Africa",
 		TLD:           ".za",
 	}
@@ -3235,6 +3483,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "ZM",
 		ISO3:          "ZMB",
+		ISONum:        894,
 		Name:          "Zambia",
 		TLD:           ".zm",
 	}
@@ -3248,6 +3497,7 @@ var (
 		ContinentCode: "AF",
 		ISO:           "ZW",
 		ISO3:          "ZWE",
+		ISONum:        716,
 		Name:          "Zimbabwe",
 		TLD:           ".zw",
 	}
@@ -3261,6 +3511,7 @@ var (
 		ContinentCode: "EU",
 		ISO:           "CS",
 		ISO3:          "SCG",
+		ISONum:        891,
 		Name:          "Serbia and Montenegro",
 		TLD:           ".cs",
 	}
@@ -3274,6 +3525,7 @@ var (
 		ContinentCode: "NA",
 		ISO:           "AN",
 		ISO3:          "ANT",
+		ISONum:        530,
 		Name:          "Netherlands Antilles",
 		TLD:           ".an",
 	}

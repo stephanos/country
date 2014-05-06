@@ -11,6 +11,7 @@ type Country struct {
 	CurrencyName  string
 	ISO           string
 	ISO3          string
+	ISONum        int
 	Name          string
 	TLD           string
 }

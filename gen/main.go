@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"go/format"
 	"os"
+	"strconv"
 	"strings"
 )
 
@@ -23,6 +24,7 @@ type country struct {
 	ContinentCode string
 	ISO           string
 	ISO3          string
+	ISONum        int
 	Name          string
 	Population    int
 	TLD           string
@@ -101,9 +103,11 @@ func loadCountries() (res []country) {
 		if !ok {
 			panic("continent not found for " + record[10])
 		}
+		isoNum, _ := strconv.Atoi(record[2])
 		res = append(res, country{
 			ISO:           record[0],
 			ISO3:          record[1],
+			ISONum:        isoNum,
 			Name:          record[4],
 			Capital:       record[5],
 			TLD:           record[9],
@@ -134,6 +138,7 @@ func generateCountries(countries []country) (out string) {
 			ContinentCode: "` + cnt.ContinentCode + `",
 			ISO: "` + cnt.ISO + `",
 			ISO3: "` + cnt.ISO3 + `",
+			ISONum: ` + strconv.Itoa(cnt.ISONum) + `,
 			Name: "` + cnt.Name + `",
 			TLD: "` + cnt.TLD + `",
 		}`
