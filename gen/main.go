@@ -21,7 +21,6 @@ type country struct {
 	CurrencyCode  string
 	CurrencyName  string
 	ContinentCode string
-	ContinentName string
 	ISO           string
 	ISO3          string
 	Name          string
@@ -109,7 +108,6 @@ func loadCountries() (res []country) {
 			Capital:       record[5],
 			TLD:           record[9],
 			ContinentCode: continent.Code,
-			ContinentName: continent.Name,
 			CurrencyCode:  record[10],
 			CurrencyName:  record[11],
 			CallingCode:   record[12],
@@ -134,7 +132,6 @@ func generateCountries(countries []country) (out string) {
 			CurrencyCode: "` + cnt.CurrencyCode + `",
 			CurrencyName: "` + cnt.CurrencyName + `",
 			ContinentCode: "` + cnt.ContinentCode + `",
-			ContinentName: "` + cnt.ContinentName + `",
 			ISO: "` + cnt.ISO + `",
 			ISO3: "` + cnt.ISO3 + `",
 			Name: "` + cnt.Name + `",

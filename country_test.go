@@ -14,7 +14,6 @@ var _ = Describe("Countries", func() {
 		Check(DE.CallingCode, Equals, "49")
 		Check(DE.Capital, Equals, "Berlin")
 		Check(DE.ContinentCode, Equals, "EU")
-		Check(DE.ContinentName, Equals, "Europe")
 		Check(DE.CurrencyCode, Equals, "EUR")
 		Check(DE.CurrencyName, Equals, "Euro")
 		Check(DE.ISO, Equals, "DE")

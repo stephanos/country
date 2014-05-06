@@ -7,7 +7,6 @@ type Country struct {
 	CallingCode   string
 	Capital       string
 	ContinentCode string
-	ContinentName string
 	CurrencyCode  string
 	CurrencyName  string
 	ISO           string
