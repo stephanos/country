@@ -20,7 +20,7 @@ This Go package provides meta data for all countries, like:
 ## Install
 ```bash
 go get github.com/101loops/country
-``
+```
 
 ## Documentation
 [godoc.org](http://godoc.org/github.com/101loops/country)
