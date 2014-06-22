@@ -8,13 +8,8 @@ This Go package provides meta data for all countries, like:
   - calling code
   - top-level domain
 
-### Installation
-`go get github.com/101loops/country`
 
-### Documentation
-[godoc.org](http://godoc.org/github.com/101loops/country)
-
-### ToDos
+## ToDos
   - add BigMac-index
   - add "is in EU"
   - add currency symbol
@@ -22,5 +17,13 @@ This Go package provides meta data for all countries, like:
   - add country demonym
   - add country name translations
 
-### License
+## Install
+```bash
+go get github.com/101loops/country
+``
+
+## Documentation
+[godoc.org](http://godoc.org/github.com/101loops/country)
+
+## License
 MIT (see LICENSE).
