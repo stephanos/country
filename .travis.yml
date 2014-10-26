@@ -9,7 +9,7 @@ install:
 
 script:
   - go build
-  - go test -v -covermode=count -coverprofile=profile.cov ./...
+  - go test -v -covermode=count -coverprofile=profile.cov .
 
 after_success:
   - go get -u github.com/mattn/goveralls
